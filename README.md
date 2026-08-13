@@ -18,7 +18,7 @@ Backend — a REST API in FastAPI with a proper three-layer architecture
 Auth — real JWT-based authentication, not a hardcoded "isLoggedIn" flag
 Frontend — a React UI that correctly handles loading, empty, authenticated, and unauthenticated states
 
-$Tech Stack
+#Tech Stack
 Frontend — React, React Hooks (useState, useEffect, useCallback), Axios, Vite
 Backend — Python, FastAPI, Uvicorn (ASGI server)
 Database — MySQL, SQLAlchemy ORM
